@@ -1,3 +1,8 @@
+                          Finding number of zero's using divide and conquer method .
+--------------------------------------------------------------------------------------------------------------------
+
+
+
 #include<iostream>
 using namespace std;
 int main()
